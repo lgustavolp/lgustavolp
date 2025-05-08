@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="Banner_GitHub_NEW1.png" alt="Banner Luiz Gustavo Lucena" style="max-width:100%; height:300px; object-fit:cover;"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-QA%20Engineer-blue"/>
+  <img src="https://img.shields.io/badge/Focus-Automation-yellowgreen"/>
+  <img src="https://img.shields.io/badge/Security-Testing-red"/>
+  <img src="https://img.shields.io/badge/Performance-JMeter-blueviolet"/>
+  <img src="https://img.shields.io/badge/Tool-Cypress-brightgreen"/>
+  <img src="https://img.shields.io/badge/Tool-Robot%20Framework-orange"/>
+  <img src="https://img.shields.io/badge/DevOps-Docker-blue"/>
+  <img src="https://img.shields.io/badge/Orchestration-K8s-lightblue"/>
+  <img src="https://img.shields.io/badge/CI-CD%20with%20GitLab-orange"/>
+</p>
+
 ### Hi, I'm Luiz Gustavo Lucena
 
 **Senior QA Engineer** | **Test Automation Leader** | **Security & Performance Specialist**  
