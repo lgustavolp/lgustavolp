@@ -1,3 +1,5 @@
+<img src="Banner_GitHub.png" alt="Banner Luiz Gustavo Lucena" style="width:100%;"/>
+
 ### Hi, I'm Luiz Gustavo Lucena
 
 **Senior QA Engineer** | **Test Automation Leader** | **Security & Performance Specialist**  
