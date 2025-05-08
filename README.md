@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Luiz Gustavo Lucena
 
-<!--
-**lgustavolp/lgustavolp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Senior QA Engineer | Test Automation | Security & Performance  
+- 10+ years in QA | Mentor | Team Leader  
+- Passionate about automation, DevOps, and quality culture
 
-Here are some ideas to get you started:
+**Tech Stack**  
+- Languages: Python, Java, TypeScript, JavaScript, Bash  
+- Frameworks: Cypress, Selenium, Robot Framework, JMeter, Postman  
+- Tools: GitLab CI, Jenkins, Docker, Allure, AppScan, ZAP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured Projects**
+- [stdCypress](https://github.com/lgustavolp/stdCypress): UI Automation in Cypress  
+- [stdRobotFram](https://github.com/lgustavolp/stdRobotFram): Robot Framework with GitHub Actions  
+- [stdJMeterStockLoadTest](#): Load Testing with JMeter in financial systems  
+- [stdSecurityScanZAP](#): Basic security testing with OWASP ZAP  
+
+**Contact me**  
+[LinkedIn](https://www.linkedin.com/in/lgustavolp) • lgustavolp@gmail.com
