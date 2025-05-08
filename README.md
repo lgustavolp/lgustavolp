@@ -1,4 +1,4 @@
-<img src="Banner_GitHub.png" alt="Banner Luiz Gustavo Lucena" style="width:100%;"/>
+<img src="Banner_GitHub.png" alt="Banner Luiz Gustavo Lucena" style="width:50%;"/>
 
 ### Hi, I'm Luiz Gustavo Lucena
 
